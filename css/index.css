@@ -1,0 +1,52 @@
+#banner{
+	background-image:url(../assets/images/banner.jpg);
+	height: 600px;
+	background-position: fixed;
+	padding-top: 300px;
+	font-color:white  !important;
+	opacity: 0.5;
+}
+#first{
+	color:white!important;
+	font-weight: 500;
+	font-size: 30px;
+	font-family: 'NTR', sans-serif;
+
+
+}
+.header{
+	font-family: 'NTR', sans-serif;
+
+}
+.pata{
+	text-align: center-left !important;
+}
+
+#sec2{
+	margin-top:30px; 
+	height: auto;
+	padding: 50px;
+}
+#play{
+	margin-top:40px;
+
+}
+#sec3{
+	height: auto;
+	padding: 50px;
+}
+
+#sec4{
+	height: 100px;
+}
+
+#contact{
+	height: 400px;
+	padding: 50px;
+	margin: 50px;
+}
+
+#footer{
+	margin-top: 100px;
+	height: 50px;
+}
